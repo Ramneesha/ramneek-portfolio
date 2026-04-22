@@ -1,4 +1,3 @@
-# ramneek-portfolio
 # AWS S3 Static Portfolio Hosting
 
 ## Project Overview
