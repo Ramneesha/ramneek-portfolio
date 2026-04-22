@@ -24,6 +24,9 @@ The website is deployed using:
 * CSS
 * JavaScript
 * AWS S3
+  
+## 🌍 Live Website
+http://ramneek-portfolio.s3-website-ap-south-1.amazonaws.com
 
 ## 📂 Project Structure
 
