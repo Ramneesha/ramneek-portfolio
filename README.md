@@ -1,3 +1,17 @@
+## 📸 Screenshots
+
+### 🔹 Live Website
+![Live Website](screenshots/website-live.png)
+
+### 🔹 S3 Hosting Setup
+![S3 Hosting](screenshots/s3-hosting (1).png)
+
+### 🔹 Bucket Policy
+![Bucket Policy](screenshots/bucket-policy.png)
+
+### 🔹 S3 Endpoint Link
+![S3 Link](screenshots/s3hostinglink.png)
+
 # Portfolio Website
 
 This repository contains my personal portfolio website built using HTML, CSS, and JavaScript.
