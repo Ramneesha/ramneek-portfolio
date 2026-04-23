@@ -3,9 +3,6 @@
 ### 🔹 Live Website
 ![Live Website](screenshots/website-live.png)
 
-### 🔹 S3 Hosting Setup
-![S3 Hosting](screenshots/s3-hosting.png)
-
 ### 🔹 Bucket Policy
 ![Bucket Policy](screenshots/bucket-policy.png)
 
