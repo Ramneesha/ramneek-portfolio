@@ -22,7 +22,6 @@ User → CloudFront (CDN + HTTPS) → S3 Bucket (Static Website Hosting)
 
 * HTML
 * CSS
-* JavaScript
 * AWS S3 (Static Hosting)
 * AWS CloudFront (CDN + HTTPS)
 
